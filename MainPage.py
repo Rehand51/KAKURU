@@ -4,7 +4,7 @@ st.set_page_config(page_title="カクル/KAKURU", page_icon=":tada:", layout="wi
 
 st.sidebar.success("👆SILAHKAN PILIH👆")
 
-st.title("KALKULATOR RUMUS (**カクル/KAKURU**)")
+st.title("KAKURU (Kalkulator Rumus): Cara mudah menghitung cepat soal matematika")
 st.markdown("""
     Orang yang terlibat :
     - Reza Setiawan sebagai penyusun
