@@ -1,2 +1,1 @@
-# KAKURU
-Kakuru adalah sebuah website untuk menghitung rukus matematika dengan mudah.
+# KAKURU(Kalkulator Rumus): Cara mudah menghitung cepat soal matematika
