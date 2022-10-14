@@ -11,8 +11,9 @@ Kakuru merupakan salah satu appstreamlit yang dibuat untuk mempermudah orang men
 
 ### Gimana cara makenya?
 1. Very Easy! pertama pergi dulu ke websitenya [disini](https://dr4ca-kakuru-mainpage-re453f.streamlitapp.com/)
-2. Silahkan cari rumusnya yang ditunjukan oleh kotak hijau
-3. 
+2. Silahkan cari rumusnya yang ditunjukan oleh kotak hijau, lalu klik.
+3. Setelah itu cari tipe apa yang ingin kawan - kawan gunakan, lalu masukan nilai ke tabel input, hasilnya akan ditampilkan jika sudah semua di tulis.
+4. SELESAI!
 
 ### Apa itu kakuru?
 Kakuru adalah sebuah website yang dibuat untuk mempermudah pengguna untuk menghitung soal dan rumus matematika. Kakuru sama seperti kalkulator, hanya saja didesain untuk lebih mudah digunakan sehingga kawan - kawan tidak usah pusing untuk menghitung sana sini.
