@@ -5,5 +5,5 @@ st.header("===LUAS===")
 alsa = st.number_input("Masukan Nilai Alas A")
 alsb = st.number_input("Masukan Nilai Alas B")
 t = st.number_input("Masukan Nilai Tinggi")
-l = 1 / 2 alsa + alsb * t
+l = alsa + alsb * t / 2
 st.subheader(l)
