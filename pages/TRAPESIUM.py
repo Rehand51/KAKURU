@@ -9,7 +9,6 @@ c = st.number_input("Masukan Nilai Alas C")
 d = st.number_input("Masukan Nilai Alas D")
 k = a + b + c + d
 st.subheader(k)
-
 st.header("===LUAS===")
 alsa = st.number_input("Masukan Nilai Alas A")
 alsb = st.number_input("Masukan Nilai Alas B")
