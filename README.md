@@ -10,7 +10,7 @@ Kakuru merupakan salah satu appstreamlit yang dibuat untuk mempermudah orang men
 (Fitur bisa saja berubah seiring berjalannya waktu, bahkan streamlit bisa saja digantikan dan domain baru akan dibuat ulang.)
 
 ### Gimana cara makenya?
-1. Very Easy! pertama pergi dulu ke websitenya [disini](https://dr4ca-kakuru-mainpage-re453f.streamlitapp.com/)
+1. Very Easy! pertama pergi dulu ke websitenya [disini](https://kakuru.streamlitapp.com/)
 2. Silahkan cari rumusnya yang ditunjukan oleh kotak hijau, lalu klik.
 3. Setelah itu cari tipe apa yang ingin kawan - kawan gunakan, lalu masukan nilai ke tabel input, hasilnya akan ditampilkan jika sudah semua di tulis.
 4. SELESAI!
