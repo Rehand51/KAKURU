@@ -22,9 +22,9 @@ st.write("Website ini masih sepenuhnya dalam pengembangan, jika ada bug atau kes
 contact_form = """
 <form action="https://formsubmit.co/0e4a07a9d07e5a315c5cb8aaae8d758c" method="POST">
      <input type="hidden" name="_captcha" value="false">
-     <input type="text" name="name" placeholder="Your name" required>
-     <input type="email" name="email" placeholder="Your email" required>
-     <textarea name="message" placeholder="Your message here"></textarea>
+     <input type="text" name="name" placeholder="Nama Kamu" required>
+     <input type="email" name="email" placeholder="Email Kamu" required>
+     <textarea name="message" placeholder="Pesan kamu disini! (Bisa berupa saran atau error!)"></textarea>
      <button type="submit">Send</button>
 </form>
 """
