@@ -11,4 +11,4 @@ l = 4 * 22/7 * r**2
 ll = 4 * 3.14 * r**2
 st.write(l, " & ", ll)
 
-st.write("Kiri menggunakan 22/7, kanan menggunakan 3.14")
+st.caption("Kiri menggunakan 22/7, kanan menggunakan 3.14")
