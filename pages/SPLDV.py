@@ -10,7 +10,7 @@ p = st.number_input("Masukan Nilai Variabel p")
 q = st.number_input("Masukan Nilai Variabel q")
 r = st.number_input("Masukan Nilai Variabel r")
 if a*q-b*p == 0:
-    st.write("Tidak ada solusi")
+    st.write("Belum Di Masukin Nilai")
 else:
     x = (c*q-r*b)/(a*q-p*b)
     y = (1/b)*(c-a*x)
