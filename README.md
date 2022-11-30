@@ -6,6 +6,7 @@ Kakuru merupakan salah satu appstreamlit yang dibuat untuk mempermudah orang men
 ### Fitur yang ditambahkan:
 - Persamaan Kuadrat : Diskriminan, Sumbu Simetri, Nilai Optimum
 - SPLDV
+- 
 (Fitur bisa saja berubah seiring berjalannya waktu, bahkan streamlit bisa saja digantikan dan domain baru akan dibuat ulang.)
 
 ### Gimana cara makenya?
