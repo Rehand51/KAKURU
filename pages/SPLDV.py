@@ -9,10 +9,11 @@ st.subheader("Persamaan 2: px+qy=r")
 p = st.number_input("Masukan Nilai Variabel p")
 q = st.number_input("Masukan Nilai Variabel q")
 r = st.number_input("Masukan Nilai Variabel r")
-if a*q-b*p == 0:
-    st.write("Belum Di Masukin Nilai")
-else:
+
+try: #Coba x = blablabla y = blablabla
     x = (c*q-r*b)/(a*q-p*b)
     y = (1/b)*(c-a*x)
-    st.write("Solusi sistem persamaan linear dua variabel adalah\nSumbu x : ",x,"\nSumbu y : ",y)
+except ZeroDivisionError: #Kecuali x = 0 y = 0
+    x = 0 #Berarti ngubah semua valuenya jadi 0?
+    y = 0
 st.caption("Note: AI KAKURU akan mencari variabel x dengan metode eliminasi lalu mencari variabel y dengan metode subtitusi")
