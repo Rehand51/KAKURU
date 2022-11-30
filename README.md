@@ -4,9 +4,8 @@
 Kakuru merupakan salah satu appstreamlit yang dibuat untuk mempermudah orang mengerjakan soal matematika, dimana orang tidak perlu menghitung lagi untuk mendapatkan hasil jawaban.
 
 ### Fitur yang ditambahkan:
-- Formsubmit
-- Domain baru
-- Page baru
+- Persamaan Kuadrat : Diskriminan, Sumbu Simetri, Nilai Optimum
+- SPLDV
 (Fitur bisa saja berubah seiring berjalannya waktu, bahkan streamlit bisa saja digantikan dan domain baru akan dibuat ulang.)
 
 ### Gimana cara makenya?
