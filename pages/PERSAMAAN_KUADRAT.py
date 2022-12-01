@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.title("PERSAMAAN FUNGSI KUADRAT")
-st.header("DISKRIMINAN (b² -4 a c)")
+st.header("DISKRIMINAN")
+st.subheader("(b² -4 a c)")
 
 db = st.number_input("Masukan Nilai b", value=0)
 da = st.number_input("Masukan Nilai a", value=0)
