@@ -1,6 +1,10 @@
 import streamlit as st
 
-st.set_page_config(page_title="カクル/KAKURU", page_icon=":tada:", layout="wide")
+st.set_page_config(
+    page_title="カクル/KAKURU",
+    page_icon=":tada:",
+    layout="wide"
+    )
 
 st.sidebar.success("👆SILAHKAN PILIH👆")
 
