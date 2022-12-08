@@ -4,7 +4,7 @@ st.title("PERSEGI")
 
 st.header("KELILING")
 sisi = st.number_input("Masukan Panjang Sisi:")
-keliling = sisi * sisi
+keliling = sisi**2
 st.subheader(keliling)
 
 st.header("LUAS")

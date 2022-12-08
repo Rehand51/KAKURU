@@ -5,7 +5,7 @@ x = st.number_input("Masukan Nilai x")
 y = st.number_input("Masukan Nilai y")
 rotasi = st.selectbox(
     'Masukan jenis Rotasi',
-    ('(+90/-270)', '(-90/+270)', '(180)'
+    ('--Pilih Dulu😉--', '(+90/-270)', '(-90/+270)', '(180)'
     ))
 if (+90/-270):
     x1 = (-y)
