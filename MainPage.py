@@ -11,8 +11,7 @@ st.sidebar.success("👆SILAHKAN PILIH👆")
 st.title("KAKURU (Kalkulator Rumus): Cara mudah menghitung cepat soal matematika")
 st.markdown("""
     Orang yang terlibat :
-    - Reza Setiawan sebagai penyusun
-    - Hersan Ramadhan sebagai penyusun
+    - Muhammad Raihan sebagai Penyusun
     - Azzam Putra Raihan sebagai Programmer
     ### Apa Itu KAKURU?
     **KAKURU** adalah sebuah mesin kalkulator yang berkerja layaknya kalkulator pada umumnya, hanya saja dirancang untuk mempermudah menyelesaikan masalah mengenai rumus matematika.
