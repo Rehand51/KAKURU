@@ -2,8 +2,9 @@ import streamlit as st
 
 st.title("PERSEGI")
 
-st.header("KELILING")
+
 sisi = st.number_input("Masukan Panjang Sisi:")
+st.header("KELILING")
 keliling = sisi**2
 st.subheader(keliling)
 
