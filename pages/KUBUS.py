@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.title("KUBUS")
-st.header("KELILING")
 sisi = st.number_input("Masukan Panjang Sisi:")
+st.header("KELILING")
 k = 12 * sisi
 st.subheader(k)
 st.header("LUAS")
