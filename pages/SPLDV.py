@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("SISTEM PERSAMAAN LINEAR DUA VARIABEL")
+st.subheader("Masih dalam tahap pengembangan")
 st.subheader("Persamaan 1: ax+by=c")
 a = st.number_input("Masukan Nilai Variabel a")
 b = st.number_input("Masukan Nilai Variabel b")
