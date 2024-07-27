@@ -1,8 +1,9 @@
 import streamlit as st
 import math
 
-st.header("KELILING BOLA")
+
 r = st.number_input("Masukan Panjang Jari - jari")
+st.header("KELILING BOLA")
 k = 2 * 22/7 * r
 kk = 2 * 3.14 * r
 st.write(k, " & ", kk)
