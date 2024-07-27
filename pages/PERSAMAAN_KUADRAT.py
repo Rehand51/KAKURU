@@ -2,20 +2,19 @@ import streamlit as st
 
 st.title("PERSAMAAN FUNGSI KUADRAT")
 st.header("DISKRIMINAN")
-st.subheader("Format: (b² -4 a c)")
 
 db = st.number_input("Masukan Nilai b", value=0)
 da = st.number_input("Masukan Nilai a", value=0)
 dc = st.number_input("Masukan Nilai c", value=0)
 
+st.subheader("Format: (b² -4 a c)")
 dd = -db**2 - (4 * (da * dc))  # Correction
 st.subheader(dd)
 
 st.header("SUMBU SIMETRI")
-st.subheader("Format: -b/2a")
 xb = st.number_input("Masukan Nilai b:")
 xa = st.number_input("Masukan Nilai a:")
-
+st.subheader("Format: -b/2a")
 try:
     x = -xb / (2 * xa)
 except ZeroDivisionError:
