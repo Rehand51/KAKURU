@@ -1,10 +1,10 @@
 import streamlit as st
 
 st.title("BANGUN RUANG BALOK")
-st.header("KELILING")
 p = st.number_input("Masukan Nilai Panjang:")
 l = st.number_input("Masukan Nilai Lebar:")
 t = st.number_input("Masukan Nilai Tinggi:")
+st.header("KELILING")
 k = 4 * ( p + l + t )
 st.subheader(k)
 st.header("LUAS BALOK")
