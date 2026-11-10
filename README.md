@@ -9,7 +9,7 @@ Kakuru merupakan salah satu appstreamlit yang dibuat untuk mempermudah orang men
 (Fitur bisa saja berubah seiring berjalannya waktu, bahkan streamlit bisa saja digantikan dan domain baru akan dibuat ulang.)
 
 ### Important Notice
-Untuk sementara akses website kita menutup akses publik karena fork ini untuk bisa dikembangkan kembali ke publik jika hostingan lokal sudah siap
+Akses terhadap website kakuru kita tutup ke publik untuk sementara karena masih dalam tahap pengembangan baik dalam host server dan isi dari websitenya itu sendiri.
 
 ### Apa itu kakuru?
 Kakuru adalah sebuah website yang dibuat untuk mempermudah pengguna untuk menghitung soal dan rumus matematika. Kakuru sama seperti kalkulator, hanya saja didesain untuk lebih mudah digunakan sehingga kawan - kawan tidak usah pusing untuk menghitung sana sini.
