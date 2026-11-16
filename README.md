@@ -27,4 +27,5 @@ Projek ini dibuat oleh:
 - Reza Setiawan sebagai penyusun
 - Hersan Ramadhan sebagai penyusun
 - Azzam Putra Raihan sebagai programmer
-- Muhammad Raihan sebagai programmer dan uptime keeper
+- Muhammad Raihan sebagai programmer
+
